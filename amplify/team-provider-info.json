@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-realtimefamilytodo-dev-01152-authRole",
+      "UnauthRoleArn": "arn:aws:iam::282027527658:role/amplify-realtimefamilytodo-dev-01152-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::282027527658:role/amplify-realtimefamilytodo-dev-01152-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-realtimefamilytodo-dev-01152-deployment",
+      "UnauthRoleName": "amplify-realtimefamilytodo-dev-01152-unauthRole",
+      "StackName": "amplify-realtimefamilytodo-dev-01152",
+      "StackId": "arn:aws:cloudformation:us-east-2:282027527658:stack/amplify-realtimefamilytodo-dev-01152/ae6adb70-e2fb-11ec-982b-0667495848d8",
+      "AmplifyAppId": "d3qm2uulsg5p9x"
+    },
+    "categories": {
+      "auth": {
+        "realtimefamilytodo4ed4a4bd": {}
+      }
+    }
+  }
+}

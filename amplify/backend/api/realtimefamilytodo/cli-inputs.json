@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "realtimefamilytodo",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/nealkhatiwada/dev/repos/realtime-family-todo/amplify/backend/api/realtimefamilytodo/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authrealtimefamilytodo4ed4a4bd"
+    }
+  }
+}
